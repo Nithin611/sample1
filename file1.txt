@@ -4,6 +4,3 @@
 2.float
 3.boolean
 
-
-bye
-
